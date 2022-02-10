@@ -1,0 +1,3 @@
+STRING mode con:cols=18 lines=1
+ENTER
+DELAY 300
