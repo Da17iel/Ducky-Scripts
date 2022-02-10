@@ -34,6 +34,7 @@ ENTER
 DELAY 1000
 ```
 This Script can open Powershell as an administrator. And all without the user ever needing to touch the keyboard.
+>It can also be a Handy tool to automate Tasks
 
 <a name="YourTargets"></a>
 ### Your Targets
